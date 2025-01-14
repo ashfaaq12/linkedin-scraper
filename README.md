@@ -51,15 +51,12 @@ To set up the project, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. **Download the correct version of ChromeDriver**
+4. **Download the correct version of ChromeDriver and Google Chrome from the below link**
     
-    - Download the ChromeDriver from this [link](https://drive.google.com/drive/folders/1hR5z5BOMQTojkhMDefzoXiUf7hH2aKc-?usp=drive_link).
+    - Google drive link [link](https://drive.google.com/drive/folders/1LzkWuzBsy7S1NwWVlBE-Q_PRRgws9bfH?usp=sharing).
 
-5. **Download the corresponding version of Google Chrome:**
 
-    - Download the suitable version of Google Chrome from this [link](https://drive.google.com/drive/folders/1_b5mstmPRWW2GaXAjylFFNw-ZXyx7YAk?usp=drive_link).
-
-6. **Set the path for Chrome and ChromeDriver:**
+5. **Set the path for Chrome and ChromeDriver:**
 
     - Specify the path for your `chrome.exe` and `chromedriver.exe` in the script.
 
